@@ -6,7 +6,7 @@ import common.archive as ARCHIVE
 import common.checksum as CHECKSUM
 
 RELEASE_TYPE = 'MOVIE-X264-HD'
-MODULE_VERSION = '0.1'
+MODULE_VERSION = '0.1.0'
 
 def makeMOVIEX264HD(releaseName, config):
   # Basic scene rules
