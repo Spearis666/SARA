@@ -11,5 +11,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Fixed
 
+## [0.1.1] - 2019-11-19
+- Correct version to follow sematics versioning
+
 ## [0.1.0] - 2019-11-19
 - Start of SARA development
