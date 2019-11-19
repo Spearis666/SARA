@@ -13,7 +13,7 @@ import common.release as RELEASE
 
 # GLOBAL
 SCRIPT_NAME = 'SARA - Scene Automatic Release Archiver'
-VERSION = '0.1.1'
+VERSION = '0.1.2'
 
 def loadConfig():
   print("Loading config...", end="")
