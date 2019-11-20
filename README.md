@@ -9,16 +9,21 @@ not etc...
 
 ### Pre-requies
 - Zip
- - 7zip
+- 7zip
 - Winrar (fuck them)
-- ckcfv
--  par2
+- cfv
+- par2
 
 Install them with :
-apt-get install p7zip-full  rar  zip
+apt-get install p7zip-full rar zip par2 cfv
 
 ### Install
 TODO
+
+### ToDoList
+- Finish example module
+- Handle interactive (ready but not used for now)
+- Add other module (need recent nfo of scene rules)
 
 ## LICENSE
 
